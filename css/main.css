@@ -129,6 +129,16 @@ nav ul li:hover{
     margin: 5px;
     padding: 5px;
 }
+
+h2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+}
+
+.card-text{
+    display: none;
+}
+
 /*Fin estilos MAIN GALERIA*/
 
 /*Inicio MAIN CONTACTO*/
